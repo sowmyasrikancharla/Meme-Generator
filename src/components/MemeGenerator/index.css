@@ -1,0 +1,17 @@
+.inp {
+  border-style: none;
+  height: auto;
+  width: 100%;
+  outline: none;
+  color: #5a7184;
+  font-size: 18px;
+}
+label {
+  color: #5a7184;
+  font-size: 30px;
+}
+.select {
+  width: 100%;
+  outline: none;
+  border-style: none;
+}
